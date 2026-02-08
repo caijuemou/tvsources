@@ -23,7 +23,7 @@
   {
     "id": "魔都",
     "name": "魔都",
-    "baseUrl": "ttps://www.mdzyapi.com/api.php/provide/vod",
+    "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod",
     "group": "normal",
     "priority": 4
   },
@@ -60,13 +60,13 @@
     "name": "无尽",
     "baseUrl": "https://api.wujinapi.me/api.php/provide/vod",
     "group": "normal",
-    "priority": 8
+    "priority": 9
   },
   {
     "id": "索尼",
     "name": "索尼",
     "baseUrl": "https://suoniapi.com/api.php/provide/vod",
     "group": "normal",
-    "priority": 8
+    "priority": 10
   }
 ]
