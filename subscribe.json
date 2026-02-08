@@ -63,16 +63,16 @@
     "priority": 9
   },
   {
-    "id": "索尼",
-    "name": "索尼",
-    "baseUrl": "https://suoniapi.com/api.php/provide/vod",
+    "id": "速播",
+    "name": "速播",
+    "baseUrl": "https://subocj.com/api.php/provide/vod",
     "group": "normal",
     "priority": 10
   },
   {
-    "id": "索尼2",
-    "name": "索尼2",
-    "baseUrl": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+    "id": "金蝉",
+    "name": "金蝉",
+    "baseUrl": "https://zy.jinchancaiji.com/api.php/provide/vod",
     "group": "normal",
     "priority": 11
   }
